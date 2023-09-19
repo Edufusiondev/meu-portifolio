@@ -1,2 +1,3 @@
 # meu-portifolio
-Portifólio pessoal com JavaScript, HTML5, CSS3.
+
+Portifólio pessoal simples com HTML5, CSS3 e responsivo.
